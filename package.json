@@ -1,0 +1,15 @@
+{
+  "name": "todo_marco_ramon",
+  "version": "1.0.0",
+  "description": "tes todo Marco Ramon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^14.1.0"
+  }
+}
